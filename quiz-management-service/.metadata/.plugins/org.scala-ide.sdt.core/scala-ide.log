@@ -1,0 +1,18 @@
+2017-05-15 18:42:22,464 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2017-05-15 18:42:22,467 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2017-05-15 18:42:22,468 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2017-05-15 18:42:22,468 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2017-05-15 18:42:22,468 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit$class.initialReconcile(InteractiveCompilationUnit.scala:163)
+2017-05-15 18:42:22,469 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.initialReconcile(ScriptCompilationUnit.scala:26)
+2017-05-15 18:42:22,469 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2017-05-15 18:42:22,469 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2017-05-15 18:42:22,469 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2017-05-15 18:44:06,435 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit$class.initialReconcile(InteractiveCompilationUnit.scala:163)
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.initialReconcile(ScriptCompilationUnit.scala:26)
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2017-05-15 18:44:06,436 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2017-05-15 18:44:06,437 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)

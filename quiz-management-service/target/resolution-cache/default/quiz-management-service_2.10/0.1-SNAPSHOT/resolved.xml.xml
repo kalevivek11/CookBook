@@ -4,7 +4,7 @@
 		module="quiz-management-service_2.10"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170405153632"
+		publication="20170515184116"
 	>
 		<description>
 		quiz-management-service

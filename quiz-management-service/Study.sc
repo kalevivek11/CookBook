@@ -17,7 +17,7 @@ object Study {
  
  //Prob: creating multiple line Strings
  
- val s3 = """this is strings
+ val s3 = """this isdfs strings
  which is on
  three line"""                                    //> s3  : String = this is strings
                                                   //|  which is on
