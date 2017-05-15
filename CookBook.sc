@@ -1,0 +1,18 @@
+object CookBook {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  
+  //************Strings*****************************************************************
+  
+  //Prob: Testing equality of Strings
+  
+  val s1 = "vivek"                                //> s1  : String = vivek
+  val s2 = "vivek"                                //> s2  : String = vivek
+  
+  s1==s2                                          //> res0: Boolean = true
+  
+  if (s1==s2)
+  {
+  	println("strings are equal");
+  }                                               //> strings are equal
+  
+}
