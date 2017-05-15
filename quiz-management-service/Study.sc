@@ -1,4 +1,4 @@
-object CookBook {
+object Study {
   println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
   
   //************Strings*****************************************************************
@@ -13,14 +13,16 @@ object CookBook {
   if (s1==s2)
   {
   	println("strings aress equal");
-  }                                               //> strings are equal
+  }                                               //> strings aress equal
  
  //Prob: creating multiple line Strings
  
  val s3 = """this is strings
- which is on 
- three line""
+ which is on
+ three line"""                                    //> s3  : String = this is strings
+                                                  //|  which is on
+                                                  //|  three line
  
  //
-  
+ 
 }
