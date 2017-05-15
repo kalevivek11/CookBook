@@ -13,11 +13,11 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
   if (s1==s2)
   {
   	println("strings aress equal");
-  };$skip(101); 
+  };$skip(108); 
  
  //Prob: creating multiple line Strings
  
- val s3 = """this is strings
+ val s3 = """this isdfdfsds strings
  which is on
  three line""";System.out.println("""s3  : String = """ + $show(s3 ))}
  

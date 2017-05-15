@@ -19,7 +19,7 @@ object Study {
  
  val s3 = """this isdfdfsds strings
  which is on
- three line"""                                    //> s3  : String = this isdfdfsds strings
+ three line"""                                    //> s3  : String = this is strings
                                                   //|  which is on
                                                   //|  three line
  
