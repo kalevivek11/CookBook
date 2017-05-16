@@ -65,5 +65,22 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
  
  val pattern(count, fruit) = "100 Apple";System.out.println("""count  : String = """ + $show(count ));System.out.println("""fruit  : String = """ + $show(fruit ));$skip(17); 
  
-  val ok="ok";;System.out.println("""ok  : String = """ + $show(ok ))}
+  val ok="ok";System.out.println("""ok  : String = """ + $show(ok ));$skip(207); ;
+  
+  
+ //*********************************************************NUMBERS********************************************************************
+ 
+ // Prob: Converting string to numeric
+ 
+ val 	i = "100".toInt;System.out.println("""i  : Int = """ + $show(i ));$skip(21); 
+ 
+ val j = "v".toInt;System.out.println("""j  : Int = """ + $show(j ));$skip(25); 
+ 
+ val b = "1".toBoolean;System.out.println("""b  : Boolean = """ + $show(b ));$skip(53); 
+ 
+ 
+ val x10 = (1 to 10).toList.foreach { x => x*2 };System.out.println("""x10  : Unit = """ + $show(x10 ))}
+ 
+ //*********************************************************Control Structures********************************************************************
+ 
 }

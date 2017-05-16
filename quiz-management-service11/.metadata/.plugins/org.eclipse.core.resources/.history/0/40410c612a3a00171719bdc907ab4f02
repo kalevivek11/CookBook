@@ -106,7 +106,7 @@ object Study {
  val b = "1".toBoolean
  
  
- val x10 = (1 to 10).toList.foreach { x => x*2 }
+ val x10 = (1 to 10).toList.foreach(print)
  
  //*********************************************************Control Structures********************************************************************
  

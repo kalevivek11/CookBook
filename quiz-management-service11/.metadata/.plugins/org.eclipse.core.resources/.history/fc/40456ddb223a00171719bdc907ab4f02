@@ -85,29 +85,6 @@ object Study {
  
  val 	i = "100".toInt                           //> i  : Int = 100
  
- val j = "v".toInt                                //> java.lang.NumberFormatException: For input string: "v"
-                                                  //| 	at java.lang.NumberFormatException.forInputString(NumberFormatException.
-                                                  //| java:65)
-                                                  //| 	at java.lang.Integer.parseInt(Integer.java:580)
-                                                  //| 	at java.lang.Integer.parseInt(Integer.java:615)
-                                                  //| 	at scala.collection.immutable.StringLike$class.toInt(StringLike.scala:27
-                                                  //| 2)
-                                                  //| 	at scala.collection.immutable.StringOps.toInt(StringOps.scala:29)
-                                                  //| 	at Study$$anonfun$main$1.apply$mcV$sp(Study.scala:77)
-                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
-                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
-                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
-                                                  //| orksheetSupport.scala:65)
-                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
-                                                  //| ksheetSupport.scala:75)
-                                                  //| 	at Study$.main(Study.scala:1)
-                                                  //| 	at Study.main(Study.scala)
  
- val b = "1".toBoolean
- 
- 
- val x10 = (1 to 10).toList.foreach { x => x*2 }
- 
- //*********************************************************Control Structures********************************************************************
  
 }
