@@ -1,7 +1,7 @@
 object Study {
   println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
   
-  //************Strings*****************************************************************************************************************
+  //************Strings*****************************************************************
   
   //Prob: Testing equality of Strings
   
@@ -76,5 +76,5 @@ object Study {
  val pattern(count, fruit) = "100 Apple"          //> count  : String = 100
                                                   //| fruit  : String = Apple
  
-  val ok="ok";                                    //> ok  : String = ok
+ 
 }

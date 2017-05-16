@@ -1,7 +1,7 @@
 object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(58); 
-  println("Welcome to the Scala worksheet");$skip(155); 
+  println("Welcome to the Scala worksheet");$skip(203); 
   
-  //************Strings*****************************************************************
+  //************Strings*****************************************************************************************************************
   
   //Prob: Testing equality of Strings
   
@@ -63,7 +63,7 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
  // Prob: extract one or more parts of a string that match the regular-expression patterns you specify
  val pattern = "([0-9]+) ([A-Za-z]+)".r;System.out.println("""pattern  : scala.util.matching.Regex = """ + $show(pattern ));$skip(43); 
  
- val pattern(count, fruit) = "100 Apple";System.out.println("""count  : String = """ + $show(count ));System.out.println("""fruit  : String = """ + $show(fruit ))}
+ val pattern(count, fruit) = "100 Apple";System.out.println("""count  : String = """ + $show(count ));System.out.println("""fruit  : String = """ + $show(fruit ));$skip(17); 
  
- 
+  val ok="ok";;System.out.println("""ok  : String = """ + $show(ok ))}
 }

@@ -76,5 +76,5 @@ object Study {
  val pattern(count, fruit) = "100 Apple"          //> count  : String = 100
                                                   //| fruit  : String = Apple
  
-  val ok="ok";                                    //> ok  : String = ok
+  val ok=ok;
 }
