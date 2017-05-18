@@ -72,15 +72,41 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
  
  // Prob: Converting string to numeric
  
- val 	i = "100".toInt;System.out.println("""i  : Int = """ + $show(i ));$skip(21); 
+ val 	i = "100".toInt;System.out.println("""i  : Int = """ + $show(i ));$skip(103); 
  
- val j = "v".toInt;System.out.println("""j  : Int = """ + $show(j ));$skip(25); 
+// val j = "v".toInt
  
- val b = "1".toBoolean;System.out.println("""b  : Boolean = """ + $show(b ));$skip(53); 
+// val b = "1".toBoolean
  
  
- val x10 = (1 to 10).toList.foreach { x => x*2 };System.out.println("""x10  : Unit = """ + $show(x10 ))}
+ val x10 = (1 to 10).toList.foreach { x => x*2 };System.out.println("""x10  : Unit = """ + $show(x10 ));$skip(233); 
  
  //*********************************************************Control Structures********************************************************************
  
+//val p = if(1) 2 else 3
+ 
+ 
+ val names = Map("d"->"daru",
+ 									"p"->"pile");System.out.println("""names  : scala.collection.immutable.Map[String,String] = """ + $show(names ));$skip(44); 
+ 		for ((k,v)<- names)
+ 		println(s"$k,$v");$skip(108); 
+                                                  
+     //Prob : for and foreach
+     val num = List(1,2,3);System.out.println("""num  : List[Int] = """ + $show(num ));$skip(42); 
+     
+     for (i <- num)
+     println(i);$skip(38); 
+ 
+ 			num.foreach { x => println(x) };$skip(161); 
+                                                  
+      //Prob : filtering some elements in a loop
+      
+      for (i <- 1 to 10 if i % 2==0)
+      println(i)}
+                                                  
+ //*********************************************************Classes AND Properties********************************************************************
+
+
+
+
 }

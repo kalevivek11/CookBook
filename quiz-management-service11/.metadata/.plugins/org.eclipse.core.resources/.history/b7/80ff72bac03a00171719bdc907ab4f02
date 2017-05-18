@@ -87,10 +87,24 @@ object Study {
  
 // val j = "v".toInt
  
-// val b = "1".toBoolean
+// val b = "1".toBoolean                          //> java.lang.IllegalArgumentException: For input string: "1"
+                                                  //| 	at scala.collection.immutable.StringLike$class.parseBoolean(StringLike.s
+                                                  //| cala:290)
+                                                  //| 	at scala.collection.immutable.StringLike$class.toBoolean(StringLike.scal
+                                                  //| a:260)
+                                                  //| 	at scala.collection.immutable.StringOps.toBoolean(StringOps.scala:29)
+                                                  //| 	at Study$$anonfun$main$1.apply$mcV$sp(Study.scala:79)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$$anonfun$$exe
+                                                  //| cute$1.apply$mcV$sp(WorksheetSupport.scala:76)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.redirected(W
+                                                  //| orksheetSupport.scala:65)
+                                                  //| 	at org.scalaide.worksheet.runtime.library.WorksheetSupport$.$execute(Wor
+                                                  //| ksheetSupport.scala:75)
+                                                  //| 	at Study$.main(Study.scala:1)
+                                                  //| 	at Study.main(Study.scala)
  
  
- val x10 = (1 to 10).toList.foreach { x => x*2 }  //> x10  : Unit = ()
+ val x10 = (1 to 10).toList.foreach { x => x*2 }
  
  //*********************************************************Control Structures********************************************************************
  
@@ -99,37 +113,6 @@ object Study {
  
  val names = Map("d"->"daru",
  									"p"->"pile")
-                                                  //> names  : scala.collection.immutable.Map[String,String] = Map(d -> daru, p -
-                                                  //| > pile)
  		for ((k,v)<- names)
- 		println(s"$k,$v")                 //> d,daru
-                                                  //| p,pile
-                                                  
-     //Prob : for and foreach
-     val num = List(1,2,3)                        //> num  : List[Int] = List(1, 2, 3)
-     
-     for (i <- num)
-     println(i)                                   //> 1
-                                                  //| 2
-                                                  //| 3
- 
- 			num.foreach { x => println(x) }
-                                                  //> 1
-                                                  //| 2
-                                                  //| 3
-                                                  
-      //Prob : filtering some elements in a loop
-      
-      for (i <- 1 to 10 if i % 2==0)
-      println(i)                                  //> 2
-                                                  //| 4
-                                                  //| 6
-                                                  //| 8
-                                                  //| 10
-                                                  
- //*********************************************************Classes AND Properties********************************************************************
-
-
-
-
+ 		println(s"$k,$v")
 }

@@ -114,22 +114,5 @@ object Study {
                                                   //| 3
  
  			num.foreach { x => println(x) }
-                                                  //> 1
-                                                  //| 2
-                                                  //| 3
-                                                  
-      //Prob : filtering some elements in a loop
-      
-      for (i <- 1 to 10 if i % 2==0)
-      println(i)                                  //> 2
-                                                  //| 4
-                                                  //| 6
-                                                  //| 8
-                                                  //| 10
-                                                  
- //*********************************************************Classes AND Properties********************************************************************
-
-
-
-
+ 
 }
