@@ -102,11 +102,61 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
       //Prob : filtering some elements in a loop
       
       for (i <- 1 to 10 if i % 2==0)
-      println(i)}
+      println(i)
                                                   
  //*********************************************************Classes AND Properties********************************************************************
 
+//Prob: Creating primary customer for class
+	
+	class Person (var fName:String,var lName:String)//constructure parameters
+	{
+		
+		val home = "akola"
+		
+		def printHome {
+		println(s"home in $home")
+		}
+		
+		
+		//printHome    // try uncommenting this
+	};$skip(494); 
 
 
+val p  = new Person("vivek","Kale");System.out.println("""p  : Study.Person = """ + $show(p ));$skip(13); 
+
+p.printHome;$skip(51); val res$2 = 
+
+
+//Prob: control the visibility of fields
+p.fName
+
+//p.fName="s"
+
+case class vPerson(vName:String);System.out.println("""res2: String = """ + $show(res$2));$skip(77); 
+
+val v = new vPerson("vk");System.out.println("""v  : Study.vPerson = """ + $show(v ));$skip(104); val res$3 = ;
+
+v.vName // in case class consture variable is directly accesed by object not need to declare it as var;System.out.println("""res3: String = """ + $show(res$3))}
+
+
+//Prob: Defining auxilary constructure
+
+class pizza (var ptype:String, var psize:String)
+{
+	
+	///def this(ptype1:Int){
+	//}
+	
+}
+
+
+//Prob: extend a base class
+
+class eperson(var name : String, var address: Address)
+{
+
+}
+
+case class Address(city:String,state:String)
 
 }

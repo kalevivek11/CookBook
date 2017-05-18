@@ -144,19 +144,9 @@ v.vName // in case class consture variable is directly accesed by object not nee
 class pizza (var ptype:String, var psize:String)
 {
 	
-	///def this(ptype1:Int){
-	//}
+	def this(ptype:Int){
+	}
 	
 }
-
-
-//Prob: extend a base class
-
-class eperson(var name : String, var address: Address)
-{
-
-}
-
-case class Address(city:String,state:String)
 
 }

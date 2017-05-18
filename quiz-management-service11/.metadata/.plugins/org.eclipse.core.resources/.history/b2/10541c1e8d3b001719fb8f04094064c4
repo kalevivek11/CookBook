@@ -108,7 +108,7 @@ object Study {
 
 //Prob: Creating primary customer for class
 	
-	class Person (var fName:String,var lName:String)//constructure parameters
+	class Person (fName:String,lName:String)//constructure parameters
 	{
 		
 		val home = "akola"
@@ -125,38 +125,5 @@ object Study {
 val p  = new Person("vivek","Kale")
 
 p.printHome
-
-
-//Prob: control the visibility of fields
-p.fName
-
-//p.fName="s"
-
-case class vPerson(vName:String)
-
-val v = new vPerson("vk");
-
-v.vName // in case class consture variable is directly accesed by object not need to declare it as var
-
-
-//Prob: Defining auxilary constructure
-
-class pizza (var ptype:String, var psize:String)
-{
-	
-	///def this(ptype1:Int){
-	//}
-	
-}
-
-
-//Prob: extend a base class
-
-class eperson(var name : String, var address: Address)
-{
-
-}
-
-case class Address(city:String,state:String)
 
 }

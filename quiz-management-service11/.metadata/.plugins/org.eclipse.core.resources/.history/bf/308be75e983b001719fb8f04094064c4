@@ -150,7 +150,7 @@ class pizza (var ptype:String, var psize:String)
 }
 
 
-//Prob: extend a base class
+//Prob: extend a base class 
 
 class eperson(var name : String, var address: Address)
 {
