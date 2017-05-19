@@ -136,7 +136,7 @@ case class vPerson(vName:String);System.out.println("""res2: String = """ + $sho
 
 val v = new vPerson("vk");System.out.println("""v  : Study.vPerson = """ + $show(v ));$skip(104); val res$3 = ;
 
-v.vName // in case class consture variable is directly accesed by object not need to declare it as var;System.out.println("""res3: String = """ + $show(res$3))}
+v.vName // in case class consture variable is directly accesed by object not need to declare it as var
 
 
 //Prob: Defining auxilary constructure
@@ -154,9 +154,88 @@ class pizza (var ptype:String, var psize:String)
 
 class eperson(var name : String, var address: Address)
 {
-
+		val home = "akola"
+			
+		def printHome {
+		println(s"home in $home")
+		}
 }
 
 case class Address(city:String,state:String)
+
+
+class Employee (name:String,address:Address,val age : Int ) extends eperson(name,address);System.out.println("""res3: String = """ + $show(res$3));$skip(489); 
+
+val em = new Employee("vssd",Address("indi","asa"),10);System.out.println("""em  : Study.Employee = """ + $show(em ));$skip(369); 
+
+
+
+//***************************************************************OBJECTS***********************************************************************
+
+//Prob: cast an instance of a class from one type to another
+
+//val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
+
+
+
+val e= 10;System.out.println("""e  : Int = """ + $show(e ));$skip(31); 
+
+val e2 = e.asInstanceOf[Long];System.out.println("""e2  : Long = """ + $show(e2 ));$skip(60); 
+
+
+def printAll(num:Int*)
+{
+	println("class"+num.getClass)
+};System.out.println("""printAll: (num: Int*)Unit""")}
+
+
+//Prob : to create a Singleton object to ensure that only one instance of a class exists
+object CashRegister {
+
+def open { println("opened") }
+
+def close { println("closed") }
+}
+//With CashRegister defined as an object, there can be only one instance of it, and its
+//methods are called just like static methods on a Java class:
+
+object Main extends App {
+
+CashRegister.open
+CashRegister.close
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }

@@ -154,88 +154,9 @@ class pizza (var ptype:String, var psize:String)
 
 class eperson(var name : String, var address: Address)
 {
-		val home = "akola"
-			
-		def printHome {
-		println(s"home in $home")
-		}
+
 }
 
 case class Address(city:String,state:String)
-
-
-class Employee (name:String,address:Address,val age : Int ) extends eperson(name,address)
-
-val em = new Employee("vssd",Address("indi","asa"),10)
-
-
-
-//***************************************************************OBJECTS***********************************************************************
-
-//Prob: cast an instance of a class from one type to another
-
-//val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
-
-
-
-val e= 10
-
-val e2 = e.asInstanceOf[Long]
-
-
-def printAll(num:Int*)
-{
-	println("class"+num.getClass)
-}
-
-
-//Prob : to create a Singleton object to ensure that only one instance of a class exists
-object CashRegister {
-
-def open { println("opened") }
-
-def close { println("closed") }
-}
-//With CashRegister defined as an object, there can be only one instance of it, and its
-//methods are called just like static methods on a Java class:
-
-object Main extends App {
-
-CashRegister.open
-CashRegister.close
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }

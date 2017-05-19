@@ -565,3 +565,255 @@
 2017-05-18 10:22:12,761  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
 2017-05-18 10:22:12,794  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
 2017-05-18 10:22:12,794  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:03,537  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:03,537  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:03,553  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:03,553  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:03,908  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:03,908  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:06,101  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:06,101  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:06,117  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:06,117  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:18,109  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:18,109  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:18,140  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:18,140  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:43,822  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:43,822  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:43,839  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:43,839  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:45,027  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:45,027  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:04:45,058  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:04:45,058  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:06:41,038  WARN [Worker-18] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:06:41,038  WARN [Worker-18] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:06:41,069  WARN [Worker-18] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:06:41,069  WARN [Worker-18] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:07:30,510  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:07:30,510  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:07:30,619  WARN [Worker-19] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:07:30,619  WARN [Worker-19] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:07:30,619  WARN [Worker-19] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:07:30,619  WARN [Worker-19] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:07:30,666  WARN [Worker-19] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:07:30,666  WARN [Worker-19] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:47,612  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:47,612  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:47,644  WARN [Worker-16] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:47,644  WARN [Worker-16] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:52,640  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:52,640  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:52,702  WARN [Worker-21] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:52,702  WARN [Worker-21] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:52,718  WARN [Worker-21] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:52,718  WARN [Worker-21] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:52,780  WARN [Worker-21] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:52,780  WARN [Worker-21] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:54,920  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:54,920  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:14:54,920  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:14:54,920  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:26,200  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:26,200  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:26,216  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:26,216  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:27,247  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:27,247  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:27,262  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:27,262  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:39,233  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:39,233  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:39,248  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:39,248  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:40,295  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:40,295  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:20:40,295  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:20:40,295  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:27,376  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:27,376  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:27,392  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:27,392  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:28,468  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:28,468  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:28,483  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:28,483  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:36,427  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:36,427  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:36,427  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:36,427  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:36,443  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:36,443  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:21:51,377  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:21:51,377  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:05,486  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:05,486  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:05,579  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:05,579  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:05,579  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:05,579  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:05,595  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:05,595  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:13,827  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:13,827  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:13,905  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:13,905  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:13,905  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:13,905  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:13,921  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:13,921  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:16,388  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:16,388  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:16,388  WARN [Worker-27] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:16,388  WARN [Worker-27] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:20,747  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:20,747  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:20,763  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:20,763  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:21,780  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:21,780  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:22:21,811  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:22:21,811  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:06,372  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:06,372  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:06,372  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:06,372  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:07,417  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:07,417  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:07,448  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:07,448  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:24,520  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:24,520  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:24,598  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:24,598  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:24,598  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:24,598  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:24,614  WARN [Worker-20] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:24,614  WARN [Worker-20] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:25,643  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:25,643  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:27:25,659  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:27:25,659  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:17,953  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:17,953  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:17,969  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:17,969  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:18,993  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:18,993  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:19,021  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:19,021  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:39,301  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:39,301  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 11:41:39,335  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 11:41:39,335  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 12:35:27,092  WARN [Worker-42] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 12:35:27,092  WARN [Worker-42] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 12:35:27,108  WARN [Worker-42] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 12:35:27,108  WARN [Worker-42] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 12:35:28,137  WARN [Worker-48] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 12:35:28,137  WARN [Worker-48] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-18 12:35:28,168  WARN [Worker-48] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-18 12:35:28,168  WARN [Worker-48] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:10:46,600  WARN [Worker-105] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:10:46,600  WARN [Worker-105] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:10:46,616  WARN [Worker-105] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:10:46,616  WARN [Worker-105] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:10:47,694  WARN [Worker-105] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:10:47,694  WARN [Worker-105] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:10:47,710  WARN [Worker-105] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:10:47,710  WARN [Worker-105] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:29,751  WARN [Worker-111] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:29,751  WARN [Worker-111] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:29,766  WARN [Worker-111] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:29,766  WARN [Worker-111] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:30,780  WARN [Worker-111] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:30,780  WARN [Worker-111] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:30,780  WARN [Worker-111] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:30,780  WARN [Worker-111] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:46,446  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:46,446  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:46,446  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:46,446  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:46,462  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:46,462  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:55,300  WARN [Worker-114] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:55,300  WARN [Worker-114] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:55,300  WARN [Worker-114] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:55,300  WARN [Worker-114] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:21:55,316  WARN [Worker-114] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:21:55,316  WARN [Worker-114] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:18,600  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:18,600  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:23,902  WARN [Worker-114] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:23,902  WARN [Worker-114] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:23,902  WARN [Worker-114] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:23,902  WARN [Worker-114] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:24,932  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:24,932  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:24,963  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:24,963  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:40,541  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:40,541  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:40,541  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:40,557  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:22:40,557  WARN [Worker-115] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:22:40,557  WARN [Worker-115] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:30:46,250  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:30:46,250  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:04,074  WARN [Worker-116] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:04,074  WARN [Worker-116] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:04,074  WARN [Worker-116] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:04,090  WARN [Worker-116] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:05,092  WARN [Worker-116] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:05,092  WARN [Worker-116] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:05,124  WARN [Worker-116] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:05,124  WARN [Worker-116] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:32,212  WARN [Worker-119] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:32,212  WARN [Worker-119] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:32,228  WARN [Worker-119] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:32,228  WARN [Worker-119] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:31:32,228  WARN [Worker-119] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:31:32,228  WARN [Worker-119] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:33:17,421  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:33:17,421  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:33:43,302  WARN [Worker-122] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:33:43,302  WARN [Worker-122] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:33:43,302  WARN [Worker-122] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:33:43,318  WARN [Worker-122] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:33:44,332  WARN [Worker-124] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:33:44,332  WARN [Worker-124] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:33:44,347  WARN [Worker-124] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:33:44,347  WARN [Worker-124] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:35,268  WARN [Worker-123] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:35,268  WARN [Worker-123] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:35,268  WARN [Worker-123] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:35,284  WARN [Worker-123] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:36,298  WARN [Worker-120] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:36,298  WARN [Worker-120] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:36,329  WARN [Worker-120] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:36,329  WARN [Worker-120] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:48,180  WARN [Worker-126] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:48,180  WARN [Worker-126] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:48,180  WARN [Worker-126] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:48,180  WARN [Worker-126] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 12:34:48,196  WARN [Worker-126] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 12:34:48,196  WARN [Worker-126] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:02:57,132  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:02:57,132  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:25,529  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:25,529  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:25,544  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:25,544  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:26,558  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:26,558  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:26,590  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:26,590  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:49,970  WARN [Worker-135] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:49,970  WARN [Worker-135] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:49,985  WARN [Worker-135] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:49,985  WARN [Worker-135] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:51,014  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:51,014  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-19 13:03:51,030  WARN [Worker-134] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-19 13:03:51,030  WARN [Worker-134] - ScalaProject - Project quiz-management-service runs on platform default installation.
