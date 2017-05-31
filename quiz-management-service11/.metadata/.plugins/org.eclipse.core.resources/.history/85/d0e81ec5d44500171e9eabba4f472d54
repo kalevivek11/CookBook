@@ -302,7 +302,7 @@ val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection
 fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
 fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
 
-println(fruits.length)                            //> 2
+println(fruits.length)
 
 
 

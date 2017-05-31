@@ -1,96 +1,85 @@
 object Study {
-  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  println("Welcome to the Scala worksheet")
   
   //************Strings*****************************************************************************************************************
   
   //Prob: Testing equality of Strings
   
-  val s1 = "vivek"                                //> s1  : String = vivek
-  val s2 = "vivek"                                //> s2  : String = vivek
+  val s1 = "vivek"
+  val s2 = "vivek"
   
-  s1==s2                                          //> res0: Boolean = true
+  s1==s2
   
   if (s1==s2)
   {
   	println("strings aress equal");
-  }                                               //> strings aress equal
+  }
  
  //Prob: creating multiple line Strings
  
  val s3 = """this isdfdfsds strings
  which is on
- three line"""                                    //> s3  : String = this isdfdfsds strings
-                                                  //|  which is on
-                                                  //|  three line
+ three line"""
  
  //Prob: Spliting strings
  
- val s4 = "hello,world"                           //> s4  : String = hello,world
- val s5 =  s4.split(",")                          //> s5  : Array[String] = Array(hello, world)
+ val s4 = "hello,world"
+ val s5 =  s4.split(",")
  for( s <- s5)
- println(s)                                       //> hello
-                                                  //| world
+ println(s)
  //Prob : Variable sudstitution
  
- val weight = 87                                  //> weight  : Int = 87
- println(s"weight of vivek is $weight")           //> weight of vivek is 87
+ val weight = 87
+ println(s"weight of vivek is $weight")
  
  
  //Prob: Processing one charector at a time
  
-	val s ="hello vivek".map(c=>c.toUpper)    //> s  : String = HELLO VIVEK
+	val s ="hello vivek".map(c=>c.toUpper)
  
-  val s11 ="hello vivek".map(_.toUpper)           //> s11  : String = HELLO VIVEK
+  val s11 ="hello vivek".map(_.toUpper)
  
  for (c <- s11)
- yield c.toLower                                  //> res1: String = hello vivek
+ yield c.toLower
  
  //Prob: detertime string contains regualr expression
  
-	val numPattern= "[0-9]".r                 //> numPattern  : scala.util.matching.Regex = [0-9]
-	val numPattern1= "[0-9]+".r               //> numPattern1  : scala.util.matching.Regex = [0-9]+
-	val letterpattern="[a-z]+".r              //> letterpattern  : scala.util.matching.Regex = [a-z]+
-	val address = "flat no 123  nymihs homes" //> address  : String = flat no 123  nymihs homes
-	val x = numPattern.findAllIn(address)     //> x  : scala.util.matching.Regex.MatchIterator = non-empty iterator
+	val numPattern= "[0-9]".r
+	val numPattern1= "[0-9]+".r
+	val letterpattern="[a-z]+".r
+	val address = "flat no 123  nymihs homes"
+	val x = numPattern.findAllIn(address)
 	val x1 = letterpattern.findAllIn(address).foreach(println)
-                                                  //> flat
-                                                  //| no
-                                                  //| nymihs
-                                                  //| homes
-                                                  //| x1  : Unit = ()
                                                   
 	//Prob: searching reular expressions and replacing them
 	
-	val radd = address.replaceAll("[0-9]","x")//> radd  : String = flat no xxx  nymihs homes
+	val radd = address.replaceAll("[0-9]","x")
 	 
 	val eadd1 = numPattern.replaceAllIn(address,"x")
-                                                  //> eadd1  : String = flat no xxx  nymihs homes
   val eadd2 = numPattern1.replaceAllIn(address,"x")
-                                                  //> eadd2  : String = flat no x  nymihs homes
  
  
  
  // Prob: extract one or more parts of a string that match the regular-expression patterns you specify
- val pattern = "([0-9]+) ([A-Za-z]+)".r           //> pattern  : scala.util.matching.Regex = ([0-9]+) ([A-Za-z]+)
+ val pattern = "([0-9]+) ([A-Za-z]+)".r
  
- val pattern(count, fruit) = "100 Apple"          //> count  : String = 100
-                                                  //| fruit  : String = Apple
+ val pattern(count, fruit) = "100 Apple"
  
-  val ok="ok";                                    //> ok  : String = ok
+  val ok="ok";
   
   
  //*********************************************************NUMBERS********************************************************************
  
  // Prob: Converting string to numeric
  
- val 	i = "100".toInt                           //> i  : Int = 100
+ val 	i = "100".toInt
  
 // val j = "v".toInt
  
 // val b = "1".toBoolean
  
  
- val x10 = (1 to 10).toList.foreach { x => x*2 }  //> x10  : Unit = ()
+ val x10 = (1 to 10).toList.foreach { x => x*2 }
  
  //*********************************************************Control Structures********************************************************************
  
@@ -99,33 +88,21 @@ object Study {
  
  val names = Map("d"->"daru",
  									"p"->"pile")
-                                                  //> names  : scala.collection.immutable.Map[String,String] = Map(d -> daru, p -
-                                                  //| > pile)
  		for ((k,v)<- names)
- 		println(s"$k,$v")                 //> d,daru
-                                                  //| p,pile
+ 		println(s"$k,$v")
                                                   
      //Prob : for and foreach
-     val num = List(1,2,3)                        //> num  : List[Int] = List(1, 2, 3)
+     val num = List(1,2,3)
      
      for (i <- num)
-     println(i)                                   //> 1
-                                                  //| 2
-                                                  //| 3
+     println(i)
  
  			num.foreach { x => println(x) }
-                                                  //> 1
-                                                  //| 2
-                                                  //| 3
                                                   
       //Prob : filtering some elements in a loop
       
       for (i <- 1 to 10 if i % 2==0)
-      println(i)                                  //> 2
-                                                  //| 4
-                                                  //| 6
-                                                  //| 8
-                                                  //| 10
+      println(i)
                                                   
  //*********************************************************Classes AND Properties********************************************************************
 
@@ -145,19 +122,19 @@ object Study {
 	}
 
 
-val p  = new Person("vivek","Kale")               //> p  : Study.Person = Study$$anonfun$main$1$Person$1@7823a2f9
+val p  = new Person("vivek","Kale")
 
-//p.printHome
+p.printHome
 
 
 //Prob: control the visibility of fields
-//p.fName
+p.fName
 
 //p.fName="s"
 
 case class vPerson(vName:String)
 
-val v = vPerson("vk");                            //> v  : Study.vPerson = vPerson(vk)
+val v = vPerson("vk");
 
 //v.vName // in case class consture variable is directly accesed by object not need to declare it as var
 
@@ -200,7 +177,7 @@ val em = new Employee("vssd",Address("indi","asa"),10)
 
 //val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
 
-/*
+
 
 val e= 10
 
@@ -229,7 +206,7 @@ CashRegister.open
 CashRegister.close
 
 }
-*/
+
 //************************************************************Trait******************************************************************
 
 //Prob : How to have interface in scala
@@ -285,24 +262,16 @@ def fly { ("I'm flying!") }  // if make a method abstract then no need of implem
 
 //Prob: How to convert array to string
 
-val obj = Array("hi","am","vivek","kale")         //> obj  : Array[String] = Array(hi, am, vivek, kale)
+val obj = Array("hi","am","vivek","kale")
 
-val obj2 = obj.mkString(" ")                      //> obj2  : String = hi am vivek kale
-val obj3 = obj.mkString("\n ")                    //> obj3  : String = hi
-                                                  //|  am
-                                                  //|  vivek
-                                                  //|  kale
+val obj2 = obj.mk
 
 
 
-//Prob : Creating an array which can grow in size
-import scala.collection.mutable.ArrayBuffer
-val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
 
-fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
-fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
 
-println(fruits.length)                            //> 2
+
+
 
 
 

@@ -1,85 +1,85 @@
-object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(58); 
-  println("Welcome to the Scala worksheet");$skip(203); 
+object Study {
+  println("Welcome to the Scala worksheet")
   
   //************Strings*****************************************************************************************************************
   
   //Prob: Testing equality of Strings
   
-  val s1 = "vivek";System.out.println("""s1  : String = """ + $show(s1 ));$skip(19); 
-  val s2 = "vivek";System.out.println("""s2  : String = """ + $show(s2 ));$skip(12); val res$0 = 
+  val s1 = "vivek"
+  val s2 = "vivek"
   
-  s1==s2;System.out.println("""res0: Boolean = """ + $show(res$0));$skip(60); 
+  s1==s2
   
   if (s1==s2)
   {
   	println("strings aress equal");
-  };$skip(108); 
+  }
  
  //Prob: creating multiple line Strings
  
  val s3 = """this isdfdfsds strings
  which is on
- three line""";System.out.println("""s3  : String = """ + $show(s3 ));$skip(54); 
+ three line"""
  
  //Prob: Spliting strings
  
- val s4 = "hello,world";System.out.println("""s4  : String = """ + $show(s4 ));$skip(25); 
- val s5 =  s4.split(",");System.out.println("""s5  : Array[String] = """ + $show(s5 ));$skip(27); 
+ val s4 = "hello,world"
+ val s5 =  s4.split(",")
  for( s <- s5)
- println(s);$skip(51); 
+ println(s)
  //Prob : Variable sudstitution
  
- val weight = 87;System.out.println("""weight  : Int = """ + $show(weight ));$skip(40); 
- println(s"weight of vivek is $weight");$skip(90); 
+ val weight = 87
+ println(s"weight of vivek is $weight")
  
  
  //Prob: Processing one charector at a time
  
-	val s ="hello vivek".map(c=>c.toUpper);System.out.println("""s  : String = """ + $show(s ));$skip(42); 
+	val s ="hello vivek".map(c=>c.toUpper)
  
-  val s11 ="hello vivek".map(_.toUpper);System.out.println("""s11  : String = """ + $show(s11 ));$skip(35); val res$1 = 
+  val s11 ="hello vivek".map(_.toUpper)
  
  for (c <- s11)
- yield c.toLower;System.out.println("""res1: String = """ + $show(res$1));$skip(85); 
+ yield c.toLower
  
  //Prob: detertime string contains regualr expression
  
-	val numPattern= "[0-9]".r;System.out.println("""numPattern  : scala.util.matching.Regex = """ + $show(numPattern ));$skip(29); 
-	val numPattern1= "[0-9]+".r;System.out.println("""numPattern1  : scala.util.matching.Regex = """ + $show(numPattern1 ));$skip(30); 
-	val letterpattern="[a-z]+".r;System.out.println("""letterpattern  : scala.util.matching.Regex = """ + $show(letterpattern ));$skip(43); 
-	val address = "flat no 123  nymihs homes";System.out.println("""address  : String = """ + $show(address ));$skip(39); 
-	val x = numPattern.findAllIn(address);System.out.println("""x  : scala.util.matching.Regex.MatchIterator = """ + $show(x ));$skip(60); 
-	val x1 = letterpattern.findAllIn(address).foreach(println);System.out.println("""x1  : Unit = """ + $show(x1 ));$skip(155); 
+	val numPattern= "[0-9]".r
+	val numPattern1= "[0-9]+".r
+	val letterpattern="[a-z]+".r
+	val address = "flat no 123  nymihs homes"
+	val x = numPattern.findAllIn(address)
+	val x1 = letterpattern.findAllIn(address).foreach(println)
                                                   
 	//Prob: searching reular expressions and replacing them
 	
-	val radd = address.replaceAll("[0-9]","x");System.out.println("""radd  : String = """ + $show(radd ));$skip(53); 
+	val radd = address.replaceAll("[0-9]","x")
 	 
-	val eadd1 = numPattern.replaceAllIn(address,"x");System.out.println("""eadd1  : String = """ + $show(eadd1 ));$skip(52); 
-  val eadd2 = numPattern1.replaceAllIn(address,"x");System.out.println("""eadd2  : String = """ + $show(eadd2 ));$skip(149); 
+	val eadd1 = numPattern.replaceAllIn(address,"x")
+  val eadd2 = numPattern1.replaceAllIn(address,"x")
  
  
  
  // Prob: extract one or more parts of a string that match the regular-expression patterns you specify
- val pattern = "([0-9]+) ([A-Za-z]+)".r;System.out.println("""pattern  : scala.util.matching.Regex = """ + $show(pattern ));$skip(43); 
+ val pattern = "([0-9]+) ([A-Za-z]+)".r
  
- val pattern(count, fruit) = "100 Apple";System.out.println("""count  : String = """ + $show(count ));System.out.println("""fruit  : String = """ + $show(fruit ));$skip(17); 
+ val pattern(count, fruit) = "100 Apple"
  
-  val ok="ok";System.out.println("""ok  : String = """ + $show(ok ));$skip(207); ;
+  val ok="ok";
   
   
  //*********************************************************NUMBERS********************************************************************
  
  // Prob: Converting string to numeric
  
- val 	i = "100".toInt;System.out.println("""i  : Int = """ + $show(i ));$skip(103); 
+ val 	i = "100".toInt
  
 // val j = "v".toInt
  
 // val b = "1".toBoolean
  
  
- val x10 = (1 to 10).toList.foreach { x => x*2 };System.out.println("""x10  : Unit = """ + $show(x10 ));$skip(233); 
+ val x10 = (1 to 10).toList.foreach { x => x*2 }
  
  //*********************************************************Control Structures********************************************************************
  
@@ -87,17 +87,17 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
  
  
  val names = Map("d"->"daru",
- 									"p"->"pile");System.out.println("""names  : scala.collection.immutable.Map[String,String] = """ + $show(names ));$skip(44); 
+ 									"p"->"pile")
  		for ((k,v)<- names)
- 		println(s"$k,$v");$skip(108); 
+ 		println(s"$k,$v")
                                                   
      //Prob : for and foreach
-     val num = List(1,2,3);System.out.println("""num  : List[Int] = """ + $show(num ));$skip(42); 
+     val num = List(1,2,3)
      
      for (i <- num)
-     println(i);$skip(38); 
+     println(i)
  
- 			num.foreach { x => println(x) };$skip(161); 
+ 			num.foreach { x => println(x) }
                                                   
       //Prob : filtering some elements in a loop
       
@@ -119,7 +119,7 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
 		
 		
 		//printHome    // try uncommenting this
-	};$skip(493); 
+	}
 
 
 val p  = new Person("vivek","Kale")
@@ -132,7 +132,7 @@ val p  = new Person("vivek","Kale")
 
 //p.fName="s"
 
-case class vPerson(vName:String);System.out.println("""p  : Study.Person = """ + $show(p ));$skip(141); 
+case class vPerson(vName:String)
 
 val v = vPerson("vk");
 
@@ -177,7 +177,7 @@ val em = new Employee("vssd",Address("indi","asa"),10)
 
 //val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
 
-/*
+
 
 val e= 10
 
@@ -206,9 +206,9 @@ CashRegister.open
 CashRegister.close
 
 }
-*/
-//************************************************************Trait******************************************************************
 
+//************************************************************Trait******************************************************************
+/*
 //Prob : How to have interface in scala
 
 //You can use a trait just like a Java interface
@@ -252,9 +252,9 @@ def comeToMaster { ("That's not gonna happen.") }
 
 abstract class FlyingPet extends Pet {
 def fly { ("I'm flying!") }  // if make a method abstract then no need of implementing anything from trait
-};System.out.println("""v  : Study.vPerson = """ + $show(v ));$skip(2892); 
+}
 
-
+*/
 
 
 //****************************************************************************************************************************************
@@ -262,21 +262,16 @@ def fly { ("I'm flying!") }  // if make a method abstract then no need of implem
 
 //Prob: How to convert array to string
 
-val obj = Array("hi","am","vivek","kale");System.out.println("""obj  : Array[String] = """ + $show(obj ));$skip(30); 
+val obj = Array("hi","am","vivek","kale")
 
-val obj2 = obj.mkString(" ");System.out.println("""obj2  : String = """ + $show(obj2 ));$skip(31); 
-val obj3 = obj.mkString("\n ")
-
+val obj2 = obj.mkString(" ")
 
 
-//Prob : Creating an array which can grow in size
-import scala.collection.mutable.ArrayBuffer;System.out.println("""obj3  : String = """ + $show(obj3 ));$skip(132); 
-val fruits = ArrayBuffer[String]();System.out.println("""fruits  : scala.collection.mutable.ArrayBuffer[String] = """ + $show(fruits ));$skip(20); val res$2 = 
 
-fruits += "banana";System.out.println("""res2: Study.fruits.type = """ + $show(res$2));$skip(18); val res$3 = 
-fruits += "apple";System.out.println("""res3: Study.fruits.type = """ + $show(res$3));$skip(24); 
 
-println(fruits.length)}
+
+
+
 
 
 

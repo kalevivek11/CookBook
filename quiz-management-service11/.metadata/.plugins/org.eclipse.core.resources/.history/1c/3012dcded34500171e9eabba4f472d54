@@ -287,22 +287,14 @@ def fly { ("I'm flying!") }  // if make a method abstract then no need of implem
 
 val obj = Array("hi","am","vivek","kale")         //> obj  : Array[String] = Array(hi, am, vivek, kale)
 
-val obj2 = obj.mkString(" ")                      //> obj2  : String = hi am vivek kale
-val obj3 = obj.mkString("\n ")                    //> obj3  : String = hi
-                                                  //|  am
-                                                  //|  vivek
-                                                  //|  kale
+val obj2 = obj.mkString                           //> obj2  : String = hiamvivekkale
 
 
 
-//Prob : Creating an array which can grow in size
-import scala.collection.mutable.ArrayBuffer
-val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
 
-fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
-fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
 
-println(fruits.length)                            //> 2
+
+
 
 
 

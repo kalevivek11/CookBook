@@ -147,11 +147,11 @@ object Study {
 
 val p  = new Person("vivek","Kale")               //> p  : Study.Person = Study$$anonfun$main$1$Person$1@7823a2f9
 
-//p.printHome
+p.printHome                                       //> home in akola
 
 
 //Prob: control the visibility of fields
-//p.fName
+p.fName                                           //> res2: String = vivek
 
 //p.fName="s"
 
@@ -200,17 +200,17 @@ val em = new Employee("vssd",Address("indi","asa"),10)
 
 //val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
 
-/*
 
-val e= 10
 
-val e2 = e.asInstanceOf[Long]
+val e= 10                                         //> e  : Int = 10
+
+val e2 = e.asInstanceOf[Long]                     //> e2  : Long = 10
 
 
 def printAll(num:Int*)
 {
 	println("class"+num.getClass)
-}
+}                                                 //> printAll: (num: Int*)Unit
 
 
 //Prob : to create a Singleton object to ensure that only one instance of a class exists
@@ -229,7 +229,7 @@ CashRegister.open
 CashRegister.close
 
 }
-*/
+
 //************************************************************Trait******************************************************************
 
 //Prob : How to have interface in scala
@@ -280,29 +280,17 @@ def fly { ("I'm flying!") }  // if make a method abstract then no need of implem
 
 
 
-//****************************************************************************************************************************************
-
-
-//Prob: How to convert array to string
-
-val obj = Array("hi","am","vivek","kale")         //> obj  : Array[String] = Array(hi, am, vivek, kale)
-
-val obj2 = obj.mkString(" ")                      //> obj2  : String = hi am vivek kale
-val obj3 = obj.mkString("\n ")                    //> obj3  : String = hi
-                                                  //|  am
-                                                  //|  vivek
-                                                  //|  kale
 
 
 
-//Prob : Creating an array which can grow in size
-import scala.collection.mutable.ArrayBuffer
-val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
 
-fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
-fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
 
-println(fruits.length)                            //> 2
+
+
+
+
+
+
 
 
 

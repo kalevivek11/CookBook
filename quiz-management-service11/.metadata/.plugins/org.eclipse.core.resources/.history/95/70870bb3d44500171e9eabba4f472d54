@@ -300,9 +300,9 @@ import scala.collection.mutable.ArrayBuffer
 val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
 
 fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
-fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
+fruits += "apple"  
 
-println(fruits.length)                            //> 2
+
 
 
 
