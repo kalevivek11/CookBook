@@ -107,7 +107,7 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
  //*********************************************************Classes AND Properties********************************************************************
 
 //Prob: Creating primary customer for class
-	
+
 	class Person (var fName:String,var lName:String)//constructure parameters
 	{
 		
@@ -119,7 +119,7 @@ object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._;
 		
 		
 		//printHome    // try uncommenting this
-	};$skip(494); 
+	};$skip(493); 
 
 
 val p  = new Person("vivek","Kale");System.out.println("""p  : Study.Person = """ + $show(p ));$skip(13); 
@@ -132,15 +132,16 @@ p.fName
 
 //p.fName="s"
 
-case class vPerson(vName:String);System.out.println("""res2: String = """ + $show(res$2));$skip(77); 
+case class vPerson(vName:String);System.out.println("""res2: String = """ + $show(res$2));$skip(73); 
 
-val v = new vPerson("vk");System.out.println("""v  : Study.vPerson = """ + $show(v ));$skip(104); val res$3 = ;
+val v = vPerson("vk");System.out.println("""v  : Study.vPerson = """ + $show(v ));$skip(973); ;
 
-v.vName // in case class consture variable is directly accesed by object not need to declare it as var
+//v.vName // in case class consture variable is directly accesed by object not need to declare it as var
 
 
 //Prob: Defining auxilary constructure
 
+/*
 class pizza (var ptype:String, var psize:String)
 {
 	
@@ -148,10 +149,10 @@ class pizza (var ptype:String, var psize:String)
 	//}
 	
 }
-
+*/
 
 //Prob: extend a base class
-
+/*
 class eperson(var name : String, var address: Address)
 {
 		val home = "akola"
@@ -164,11 +165,11 @@ class eperson(var name : String, var address: Address)
 case class Address(city:String,state:String)
 
 
-class Employee (name:String,address:Address,val age : Int ) extends eperson(name,address);System.out.println("""res3: String = """ + $show(res$3));$skip(489); 
+class Employee (name:String,address:Address,val age : Int ) extends eperson(name,address)
 
-val em = new Employee("vssd",Address("indi","asa"),10);System.out.println("""em  : Study.Employee = """ + $show(em ));$skip(369); 
+val em = new Employee("vssd",Address("indi","asa"),10)
 
-
+*/
 
 //***************************************************************OBJECTS***********************************************************************
 
@@ -206,13 +207,52 @@ CashRegister.close
 
 }
 
+//************************************************************Trait******************************************************************
+
+//Prob : How to have interface in scala
+
+//You can use a trait just like a Java interface
+
+trait BaseSoundPlayer {
+def play
+def close
+def pause
+def stop    // only method names are required when it does not have any name
+def resume(enabled : Boolean)
+}
+
+//class mySystem extends BaseSoundPlayer{
+
+// class my sound player must implement all the mothods
+
+//}
 
 
+abstract class MyNewSystem extends BaseSoundPlayer{
+// this class as it is abstact have a luxary to implement only few methods of trait
+}
 
 
+//Prob : Using trait like a abstact class in JAVA
 
+trait Pet {
+def speak { println("Yo") } // concrete implementation
+def comeToMaster // abstract method
+}
 
+class Dog extends Pet {
+// don't need to implement 'speak' if you don't need to
+def comeToMaster { ("I'm coming!") }
+}
+class Cat extends Pet {
+// override the speak method
+override def speak { ("meow") }
+def comeToMaster { ("That's not gonna happen.") }
+}
 
+abstract class FlyingPet extends Pet {
+def fly { ("I'm flying!") }  // if make a method abstract then no need of implementing anything from trait
+}
 
 
 
