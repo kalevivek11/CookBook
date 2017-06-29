@@ -276,15 +276,68 @@ val fruits = ArrayBuffer[String]();System.out.println("""fruits  : scala.collect
 fruits += "banana";System.out.println("""res2: Study.fruits.type = """ + $show(res$2));$skip(18); val res$3 = 
 fruits += "apple";System.out.println("""res3: Study.fruits.type = """ + $show(res$3));$skip(24); 
 
-println(fruits.length)}
+println(fruits.length);$skip(225); 
 
 
 
 
 
+//*****************************************************(LIST ARRAY MAP SET)*********************************************************************
+
+// list and map are mutable by nature
+
+ val wx = List(1, 2.0, 33D, 4000L)
+ 
+ // to use mutable list use listBuffer
+ 
+ import scala.collection.mutable.ListBuffer;System.out.println("""wx  : List[Double] = """ + $show(wx ));$skip(125); 
+ 
+ val fruitsm = ListBuffer[String]();System.out.println("""fruitsm  : scala.collection.mutable.ListBuffer[String] = """ + $show(fruitsm ));$skip(21); val res$4 = 
+ 
+ fruitsm+= "mango";System.out.println("""res4: Study.fruitsm.type = """ + $show(res$4));$skip(19); val res$5 = 
+ fruitsm+= "guava";System.out.println("""res5: Study.fruitsm.type = """ + $show(res$5));$skip(55); val res$6 = 
+
+// adding multiple elements
+
+fruitsm += ("a","b","c");System.out.println("""res6: Study.fruitsm.type = """ + $show(res$6));$skip(111); 
+
+	
+// immutable map...different ways of implementations
+
+val states = Map("AL" -> "Alabama", "AK" -> "Alaska");System.out.println("""states  : scala.collection.immutable.Map[String,String] = """ + $show(states ));$skip(58); 
+
+val states2 = Map( ("AL", "Alabama"), ("AK", "Alaska") );System.out.println("""states2  : scala.collection.immutable.Map[String,String] = """ + $show(states2 ));$skip(73); 
 
 
+// mutable map
+var states1 = collection.mutable.Map("AL" -> "Alabama");System.out.println("""states1  : scala.collection.mutable.Map[String,String] = """ + $show(states1 ));$skip(35); val res$7 = 
+states1 +=  ("AP"->"Andrapradesh");System.out.println("""res7: scala.collection.mutable.Map[String,String] = """ + $show(res$7));$skip(54); 
+
+//accessing values from map
+
+	val al = states1("AL");System.out.println("""al  : String = """ + $show(al ));$skip(30); 
+
+	val al2 = states1.get("AL");System.out.println("""al2  : Option[String] = """ + $show(al2 ));$skip(74); 
+	
+	//if get is used as u are not sure of key
+	val al3 = states1.get("YO");System.out.println("""al3  : Option[String] = """ + $show(al3 ));$skip(63); 
+
+var x3 = collection.mutable.Map(1 -> "a", 2 -> "b", 3 -> "c");System.out.println("""x3  : scala.collection.mutable.Map[Int,String] = """ + $show(x3 ));$skip(49); 
+
+val y  = x3.transform((k,v) => v.toUpperCase());System.out.println("""y  : scala.collection.mutable.Map[Int,String] = """ + $show(y ));$skip(12); 
+
+println(y);$skip(32); 
+
+val z = y.filter(x => x._1 >2);System.out.println("""z  : scala.collection.mutable.Map[Int,String] = """ + $show(z ));$skip(146); 
+
+//val q = y.filter( _ > 2)
 
 
+//converting list of tuple to map of key vlaue pair
+
+val tlist = List(("a","akola"),("b","bombay"),("c","chennai"));System.out.println("""tlist  : List[(String, String)] = """ + $show(tlist ));$skip(48); 
+var mapping = tlist.map(f => (f._1,f._2)).toMap;System.out.println("""mapping  : scala.collection.immutable.Map[String,String] = """ + $show(mapping ));$skip(18); 
+
+println(mapping)}
 
 }

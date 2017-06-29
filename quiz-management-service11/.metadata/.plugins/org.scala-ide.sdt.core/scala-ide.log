@@ -1001,3 +1001,695 @@
 2017-05-29 11:26:53,094  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
 2017-05-29 11:26:53,125  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
 2017-05-29 11:26:53,125  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:01:57,195  WARN [Worker-137] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:01:57,195  WARN [Worker-137] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:01:57,351  WARN [Worker-137] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:01:57,367  WARN [Worker-137] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:01:58,381  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:01:58,381  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:01:58,412  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:01:58,412  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:23,617  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:23,617  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:23,648  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:23,648  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:29,862  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:29,862  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:29,893  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:29,893  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:35,220  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:35,220  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:35,266  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:35,282  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:35,329  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:35,329  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:35,391  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:35,391  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:46,046  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:46,046  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:02:46,077  WARN [Worker-140] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:02:46,077  WARN [Worker-140] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:03:17,244  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:03:17,244  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:03:17,259  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:03:17,259  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:22,342  WARN [main] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:22,342  WARN [main] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:22,420  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:22,420  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:22,420  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:22,420  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:22,436  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:22,436  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:42,899  WARN [Worker-144] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:42,899  WARN [Worker-144] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:42,946  WARN [Worker-144] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:42,946  WARN [Worker-144] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:58,137  WARN [Worker-142] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:58,137  WARN [Worker-142] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:04:58,153  WARN [Worker-142] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:04:58,153  WARN [Worker-142] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:00,830  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:00,830  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:00,845  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:00,845  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:12,865  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:12,865  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:12,865  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:12,881  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:13,987  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:13,987  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:14,018  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:14,018  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:21,880  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:21,880  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:21,880  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:21,880  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:23,058  WARN [Worker-147] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:23,058  WARN [Worker-147] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:23,073  WARN [Worker-147] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:23,073  WARN [Worker-147] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:33,897  WARN [Worker-142] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:33,897  WARN [Worker-142] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:33,907  WARN [Worker-142] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:33,907  WARN [Worker-142] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:35,046  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:35,046  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:06:35,096  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:06:35,096  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:07:31,324  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:07:31,324  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:07:31,340  WARN [Worker-141] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:07:31,340  WARN [Worker-141] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:07:32,388  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:07:32,388  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:07:32,404  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:07:32,404  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:08,691  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:08,691  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:08,707  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:08,707  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:09,755  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:09,755  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:09,786  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:09,786  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:24,662  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:24,662  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:24,677  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:24,677  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:29,844  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:29,844  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:29,844  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:29,844  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:34,434  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:34,434  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:34,434  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:34,434  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:35,451  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:35,451  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:35,482  WARN [Worker-150] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:35,482  WARN [Worker-150] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:59,180  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:59,180  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:12:59,180  WARN [Worker-146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:12:59,180  WARN [Worker-146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:13:00,201  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:13:00,201  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-05-31 13:13:00,232  WARN [Worker-149] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-05-31 13:13:00,232  WARN [Worker-149] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-08 10:54:43,722  WARN [Worker-1146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-08 10:54:43,766  WARN [Worker-1146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-08 10:54:44,060  WARN [Worker-1146] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-08 10:54:44,060  WARN [Worker-1146] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-09 16:03:20,345  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-09 16:03:20,380  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-09 16:03:20,413  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-09 16:03:20,414  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-15 03:28:24,740 ERROR [main] - System.err - org.eclipse.swt.SWTException: Graphic is disposed
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.SWT.error(SWT.java:4441)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.SWT.error(SWT.java:4356)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.SWT.error(SWT.java:4327)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.graphics.Font.getFontData(Font.java:184)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.swt.helpers.CSSSWTFontHelper.getFirstFontData(CSSSWTFontHelper.java:454)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.swt.properties.converters.CSSValueSWTFontDataConverterImpl.convert(CSSValueSWTFontDataConverterImpl.java:59)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.swt.properties.converters.CSSValueSWTFontConverterImpl.convert(CSSValueSWTFontConverterImpl.java:34)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.convert(AbstractCSSEngine.java:1077)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.swt.properties.css2.CSSPropertyFontSWTHandler.onAllCSSPropertiesApplyed(CSSPropertyFontSWTHandler.java:251)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyleDeclaration(AbstractCSSEngine.java:549)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:413)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.core.impl.engine.AbstractCSSEngine.applyStyles(AbstractCSSEngine.java:354)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.e4.ui.css.swt.engine.CSSSWTApplyStylesListener$1.handleEvent(CSSSWTApplyStylesListener.java:32)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.runSkin(Display.java:4255)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1288)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+2017-06-15 03:28:24,755 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.sendResize(Composite.java:981)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1026)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.custom.StackLayout.layout(StackLayout.java:123)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3167)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.setRectangle(SashLayout.java:318)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:263)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.tileSubNodes(SashLayout.java:306)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SashLayout.layout(SashLayout.java:180)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.SetWindowPos(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.SetWindowPos(Widget.java:1465)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3143)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setBounds(Composite.java:1020)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.setBounds(Control.java:3100)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.layout.FillLayout.layout(FillLayout.java:204)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.updateLayout(Composite.java:1290)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1701)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Scrollable.callWindowProc(Scrollable.java:79)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.EndDeferWindowPos(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:950)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.resizeChildren(Composite.java:916)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.setResizeChildren(Composite.java:1127)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Composite.WM_SIZE(Composite.java:1705)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.WM_SIZE(Canvas.java:462)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.WM_SIZE(Decorations.java:1810)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4685)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.WM_WINDOWPOSCHANGED(Control.java:5492)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.WM_WINDOWPOSCHANGED(Canvas.java:468)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4698)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.SetMenu(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.setMenuBar(Decorations.java:1174)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Menu.releaseParent(Menu.java:1186)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.release(Widget.java:824)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:175)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:933)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$3(PartRenderingEngine.java:862)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$8.run(PartRenderingEngine.java:857)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:841)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.WorkbenchWindow$1.handleEvent(WorkbenchWindow.java:319)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:40)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.syncExec(Display.java:4734)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:218)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:36)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:81)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:59)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setWidget(UIElementImpl.java:261)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.unbindWidget(SWTPartRenderer.java:150)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer$1.widgetDisposed(SWTPartRenderer.java:138)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:123)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.release(Widget.java:816)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Widget.dispose(Widget.java:454)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:447)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.dispose(Shell.java:715)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.release(Display.java:3811)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.graphics.Device.dispose(Device.java:295)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.messageProc(Display.java:3292)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.jface.window.Window.runEventLoop(Window.java:832)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.jface.window.Window.open(Window.java:808)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:341)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.jface.dialogs.MessageDialogWithToggle.open(MessageDialogWithToggle.java:114)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.jface.dialogs.MessageDialogWithToggle.openOkCancelConfirm(MessageDialogWithToggle.java:209)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.ide.application.IDEWorkbenchWindowAdvisor.promptOnExit(IDEWorkbenchWindowAdvisor.java:218)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.handleEvent(IDEWorkbenchAdvisor.java:171)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4346)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.messageProc(Display.java:3305)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.windowProc(Display.java:5036)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.PeekMessageW(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.internal.win32.OS.PeekMessage(OS.java:3141)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3756)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at java.lang.reflect.Method.invoke(Method.java:498)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+2017-06-15 03:28:24,771 ERROR [main] - System.err - at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+2017-06-27 11:59:05,371  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:05,418  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-27 11:59:05,465  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:05,465  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-27 11:59:05,465  WARN [Worker-3] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:05,465  WARN [Worker-3] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-27 11:59:06,901  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:06,901  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-27 11:59:07,123  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:07,123  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-27 11:59:07,808  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-27 11:59:07,808  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 11:23:43,747  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 11:23:43,837  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 11:23:46,738  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 11:23:46,738  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 11:23:47,852  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 11:23:47,853  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 11:23:50,711  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 11:23:50,712  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 11:23:56,991  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 11:23:56,991  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:10:56,570  WARN [Worker-1] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:10:56,570  WARN [Worker-1] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit$class.initialReconcile(InteractiveCompilationUnit.scala:163)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.initialReconcile(ScriptCompilationUnit.scala:26)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2017-06-28 12:10:56,850 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2017-06-28 12:15:03,019  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:15:03,019  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit$class.initialReconcile(InteractiveCompilationUnit.scala:163)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.initialReconcile(ScriptCompilationUnit.scala:26)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2017-06-28 12:15:59,812 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2017-06-28 12:16:05,749  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:05,749  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:16:45,902  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:45,902  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:16:45,933  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:45,933  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:16:46,042  WARN [Worker-0] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:46,042  WARN [Worker-0] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:16:48,612  WARN [Worker-1] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:48,612  WARN [Worker-1] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:16:48,627  WARN [Worker-1] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:16:48,627  WARN [Worker-1] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:28:08,402  WARN [Worker-6] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:28:08,402  WARN [Worker-6] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:28:08,417  WARN [Worker-6] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:28:08,417  WARN [Worker-6] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:28:10,651  WARN [Worker-7] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:28:10,651  WARN [Worker-7] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:28:10,667  WARN [Worker-7] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:28:10,667  WARN [Worker-7] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - Exception in thread "org.eclipse.jface.text.reconciler.MonoReconciler"
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - java.lang.NullPointerException
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject$lzycompute(ScriptCompilationUnit.scala:33)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.scalaProject(ScriptCompilationUnit.scala:33)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit$class.initialReconcile(InteractiveCompilationUnit.scala:163)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.initialReconcile(ScriptCompilationUnit.scala:26)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.scalaide.worksheet.reconciler.ScalaReconcilingStrategy.initialReconcile(ScalaReconcilingStrategy.scala:46)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+2017-06-28 12:28:24,195 ERROR [org.eclipse.jface.text.reconciler.MonoReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+2017-06-28 12:35:56,810  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:35:56,810  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:35:56,957  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:35:56,957  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:35:58,029  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:35:58,029  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:35:58,044  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:35:58,044  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:36:06,982  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:36:06,982  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:36:06,999  WARN [Worker-11] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:36:06,999  WARN [Worker-11] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:36:08,450  WARN [Worker-9] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:36:08,450  WARN [Worker-9] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:36:08,467  WARN [Worker-9] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:36:08,467  WARN [Worker-9] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:16,850  WARN [Worker-6] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:16,850  WARN [Worker-6] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:16,880  WARN [Worker-6] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:16,880  WARN [Worker-6] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:17,951  WARN [Worker-13] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:17,951  WARN [Worker-13] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:17,971  WARN [Worker-13] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:17,971  WARN [Worker-13] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:19,203  WARN [Worker-13] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:19,203  WARN [Worker-13] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:40:19,229  WARN [Worker-13] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:40:19,229  WARN [Worker-13] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:41:26,697  WARN [Worker-12] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:41:26,697  WARN [Worker-12] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:41:26,717  WARN [Worker-12] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:41:26,718  WARN [Worker-12] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:41:28,065  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:41:28,065  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 12:41:28,100  WARN [Worker-14] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 12:41:28,100  WARN [Worker-14] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:19,859  WARN [Worker-22] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:19,859  WARN [Worker-22] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:19,879  WARN [Worker-22] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:19,879  WARN [Worker-22] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:26,018  WARN [Worker-22] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:26,018  WARN [Worker-22] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:26,033  WARN [Worker-22] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:26,033  WARN [Worker-22] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:27,448  WARN [Worker-19] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:27,448  WARN [Worker-19] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:35:27,461  WARN [Worker-19] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:35:27,462  WARN [Worker-19] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:36,862  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:36,862  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:36,879  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:36,879  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:37,903  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:37,903  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:37,940  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:37,940  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:54,533  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:54,533  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:54,547  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:54,547  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:55,810  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:55,811  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:45:55,851  WARN [Worker-26] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:45:55,851  WARN [Worker-26] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:47:46,187  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:47:46,188  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:47:46,202  WARN [Worker-28] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:47:46,203  WARN [Worker-28] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:47:47,373  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:47:47,373  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:47:47,387  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:47:47,387  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:51,057  WARN [Worker-30] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:51,057  WARN [Worker-30] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:51,073  WARN [Worker-30] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:51,073  WARN [Worker-30] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:54,900  WARN [Worker-24] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:54,901  WARN [Worker-24] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:54,922  WARN [Worker-24] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:54,922  WARN [Worker-24] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:56,115  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:56,115  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:49:56,152  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:49:56,152  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:50:18,848  WARN [Worker-30] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:50:18,849  WARN [Worker-30] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:50:18,863  WARN [Worker-30] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:50:18,864  WARN [Worker-30] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:50:19,983  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:50:19,983  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 16:50:19,996  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 16:50:19,996  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:21,318  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:21,318  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:21,334  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:21,334  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:24,859  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:24,859  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:24,874  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:24,874  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:25,973  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:25,973  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:41:26,004  WARN [Worker-33] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:41:26,004  WARN [Worker-33] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:03,429  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:03,429  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:03,445  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:03,445  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:04,664  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:04,664  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:04,680  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:04,680  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:57,450  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:57,450  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:57,466  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:57,466  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:58,641  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:58,641  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:46:58,672  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:46:58,672  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:14,953  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:14,953  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:14,953  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:14,953  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:26,462  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:26,462  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:26,462  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:26,462  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:27,589  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:27,589  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:27,604  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:27,604  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:40,303  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:40,303  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:40,303  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:40,303  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:41,431  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:41,431  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:41,431  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:41,431  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:49,921  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:49,921  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:49,939  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:49,939  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:51,138  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:51,138  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:47:51,154  WARN [Worker-31] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:47:51,154  WARN [Worker-31] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:48:05,834  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:48:05,834  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:48:05,834  WARN [Worker-35] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:48:05,834  WARN [Worker-35] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:48:06,974  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:48:06,974  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:48:06,990  WARN [Worker-25] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:48:06,990  WARN [Worker-25] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:49:42,319  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:49:42,319  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:49:42,351  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:49:42,351  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:49:43,380  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:49:43,380  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:49:43,380  WARN [Worker-34] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:49:43,380  WARN [Worker-34] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:51:30,679  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:51:30,679  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:51:30,679  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:51:30,679  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:51:31,838  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:51:31,838  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:51:31,853  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:51:31,853  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:52:32,979  WARN [Worker-37] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:52:32,979  WARN [Worker-37] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:52:32,979  WARN [Worker-37] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:52:32,979  WARN [Worker-37] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:52:34,058  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:52:34,058  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:52:34,073  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:52:34,073  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:23,604  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:23,604  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:23,620  WARN [Worker-38] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:23,620  WARN [Worker-38] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:24,639  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:24,639  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:24,655  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:24,655  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:50,618  WARN [Worker-41] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:50,618  WARN [Worker-41] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:50,618  WARN [Worker-41] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:50,618  WARN [Worker-41] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:51,698  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:51,698  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-28 17:53:51,698  WARN [Worker-40] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-28 17:53:51,698  WARN [Worker-40] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:20,368  WARN [Worker-184] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:20,368  WARN [Worker-184] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:20,387  WARN [Worker-184] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:20,387  WARN [Worker-184] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:26,840  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:26,840  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:26,854  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:26,855  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:28,017  WARN [Worker-188] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:28,018  WARN [Worker-188] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:34:28,046  WARN [Worker-188] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:34:28,046  WARN [Worker-188] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:39,617  WARN [Worker-189] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:39,617  WARN [Worker-189] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:39,631  WARN [Worker-189] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:39,631  WARN [Worker-189] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:45,952  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:45,952  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:45,983  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:45,983  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:48,288  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:48,289  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:48,302  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:48,302  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:49,367  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:49,367  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:49,380  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:49,380  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:50,445  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:50,445  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:35:50,480  WARN [Worker-191] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:35:50,480  WARN [Worker-191] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:39:01,124  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:39:01,124  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:39:01,154  WARN [Worker-186] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:39:01,156  WARN [Worker-186] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:39:02,506  WARN [Worker-193] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:39:02,507  WARN [Worker-193] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:39:02,523  WARN [Worker-193] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:39:02,523  WARN [Worker-193] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:40:21,019  WARN [Worker-194] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:40:21,019  WARN [Worker-194] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:40:21,035  WARN [Worker-194] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:40:21,035  WARN [Worker-194] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:40:22,218  WARN [Worker-189] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:40:22,218  WARN [Worker-189] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 10:40:22,252  WARN [Worker-189] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 10:40:22,252  WARN [Worker-189] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:03:04,238  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:03:04,238  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:03:04,269  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:03:04,269  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:12,770  WARN [Worker-4] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:12,770  WARN [Worker-4] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:12,770  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:12,770  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:13,291  WARN [Worker-4] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:13,291  WARN [Worker-4] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:13,619  WARN [Worker-5] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:13,619  WARN [Worker-5] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:14,705  WARN [Worker-5] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:14,705  WARN [Worker-5] - ScalaProject - Project quiz-management-service runs on platform default installation.
+2017-06-29 12:35:19,105  WARN [Text Viewer Hover Presenter] - ScalaProject - Project quiz-management-service has platform default sourceLevel.
+2017-06-29 12:35:19,105  WARN [Text Viewer Hover Presenter] - ScalaProject - Project quiz-management-service runs on platform default installation.

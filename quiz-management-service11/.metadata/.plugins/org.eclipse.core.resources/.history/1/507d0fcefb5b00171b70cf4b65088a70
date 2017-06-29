@@ -1,0 +1,362 @@
+object Study {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+  
+  //************Strings*****************************************************************************************************************
+  
+  //Prob: Testing equality of Strings
+  
+  val s1 = "vivek"                                //> s1  : String = vivek
+  val s2 = "vivek"                                //> s2  : String = vivek
+  
+  s1==s2                                          //> res0: Boolean = true
+  
+  if (s1==s2)
+  {
+  	println("strings aress equal");
+  }                                               //> strings aress equal
+ 
+ //Prob: creating multiple line Strings
+ 
+ val s3 = """this isdfdfsds strings
+ which is on
+ three line"""                                    //> s3  : String = this isdfdfsds strings
+                                                  //|  which is on
+                                                  //|  three line
+ 
+ //Prob: Spliting strings
+ 
+ val s4 = "hello,world"                           //> s4  : String = hello,world
+ val s5 =  s4.split(",")                          //> s5  : Array[String] = Array(hello, world)
+ for( s <- s5)
+ println(s)                                       //> hello
+                                                  //| world
+ //Prob : Variable sudstitution
+ 
+ val weight = 87                                  //> weight  : Int = 87
+ println(s"weight of vivek is $weight")           //> weight of vivek is 87
+ 
+ 
+ //Prob: Processing one charector at a time
+ 
+	val s ="hello vivek".map(c=>c.toUpper)    //> s  : String = HELLO VIVEK
+ 
+  val s11 ="hello vivek".map(_.toUpper)           //> s11  : String = HELLO VIVEK
+ 
+ for (c <- s11)
+ yield c.toLower                                  //> res1: String = hello vivek
+ 
+ //Prob: detertime string contains regualr expression
+ 
+	val numPattern= "[0-9]".r                 //> numPattern  : scala.util.matching.Regex = [0-9]
+	val numPattern1= "[0-9]+".r               //> numPattern1  : scala.util.matching.Regex = [0-9]+
+	val letterpattern="[a-z]+".r              //> letterpattern  : scala.util.matching.Regex = [a-z]+
+	val address = "flat no 123  nymihs homes" //> address  : String = flat no 123  nymihs homes
+	val x = numPattern.findAllIn(address)     //> x  : scala.util.matching.Regex.MatchIterator = non-empty iterator
+	val x1 = letterpattern.findAllIn(address).foreach(println)
+                                                  //> flat
+                                                  //| no
+                                                  //| nymihs
+                                                  //| homes
+                                                  //| x1  : Unit = ()
+                                                  
+	//Prob: searching reular expressions and replacing them
+	
+	val radd = address.replaceAll("[0-9]","x")//> radd  : String = flat no xxx  nymihs homes
+	 
+	val eadd1 = numPattern.replaceAllIn(address,"x")
+                                                  //> eadd1  : String = flat no xxx  nymihs homes
+  val eadd2 = numPattern1.replaceAllIn(address,"x")
+                                                  //> eadd2  : String = flat no x  nymihs homes
+ 
+ 
+ 
+ // Prob: extract one or more parts of a string that match the regular-expression patterns you specify
+ val pattern = "([0-9]+) ([A-Za-z]+)".r           //> pattern  : scala.util.matching.Regex = ([0-9]+) ([A-Za-z]+)
+ 
+ val pattern(count, fruit) = "100 Apple"          //> count  : String = 100
+                                                  //| fruit  : String = Apple
+ 
+  val ok="ok";                                    //> ok  : String = ok
+  
+  
+ //*********************************************************NUMBERS********************************************************************
+ 
+ // Prob: Converting string to numeric
+ 
+ val 	i = "100".toInt                           //> i  : Int = 100
+ 
+// val j = "v".toInt
+ 
+// val b = "1".toBoolean
+ 
+ 
+ val x10 = (1 to 10).toList.foreach { x => x*2 }  //> x10  : Unit = ()
+ 
+ //*********************************************************Control Structures********************************************************************
+ 
+//val p = if(1) 2 else 3
+ 
+ 
+ val names = Map("d"->"daru",
+ 									"p"->"pile")
+                                                  //> names  : scala.collection.immutable.Map[String,String] = Map(d -> daru, p -
+                                                  //| > pile)
+ 		for ((k,v)<- names)
+ 		println(s"$k,$v")                 //> d,daru
+                                                  //| p,pile
+                                                  
+     //Prob : for and foreach
+     val num = List(1,2,3)                        //> num  : List[Int] = List(1, 2, 3)
+     
+     for (i <- num)
+     println(i)                                   //> 1
+                                                  //| 2
+                                                  //| 3
+ 
+ 			num.foreach { x => println(x) }
+                                                  //> 1
+                                                  //| 2
+                                                  //| 3
+                                                  
+      //Prob : filtering some elements in a loop
+      
+      for (i <- 1 to 10 if i % 2==0)
+      println(i)                                  //> 2
+                                                  //| 4
+                                                  //| 6
+                                                  //| 8
+                                                  //| 10
+                                                  
+ //*********************************************************Classes AND Properties********************************************************************
+
+//Prob: Creating primary customer for class
+
+	class Person (var fName:String,var lName:String)//constructure parameters
+	{
+		
+		val home = "akola"
+		
+		def printHome {
+		println(s"home in $home")
+		}
+		
+		
+		//printHome    // try uncommenting this
+	}
+
+
+val p  = new Person("vivek","Kale")               //> p  : Study.Person = Study$$anonfun$main$1$Person$1@7823a2f9
+
+//p.printHome
+
+
+//Prob: control the visibility of fields
+//p.fName
+
+//p.fName="s"
+
+case class vPerson(vName:String)
+
+val v = vPerson("vk");                            //> v  : Study.vPerson = vPerson(vk)
+
+//v.vName // in case class consture variable is directly accesed by object not need to declare it as var
+
+
+//Prob: Defining auxilary constructure
+
+/*
+class pizza (var ptype:String, var psize:String)
+{
+	
+	///def this(ptype1:Int){
+	//}
+	
+}
+*/
+
+//Prob: extend a base class
+/*
+class eperson(var name : String, var address: Address)
+{
+		val home = "akola"
+			
+		def printHome {
+		println(s"home in $home")
+		}
+}
+
+case class Address(city:String,state:String)
+
+
+class Employee (name:String,address:Address,val age : Int ) extends eperson(name,address)
+
+val em = new Employee("vssd",Address("indi","asa"),10)
+
+*/
+
+//***************************************************************OBJECTS***********************************************************************
+
+//Prob: cast an instance of a class from one type to another
+
+//val reg = cm.lookup("red").asInstanceOf(Recognizer) the object returned by the lookup method is cast to an instance of a class named Recognizer
+
+/*
+
+val e= 10
+
+val e2 = e.asInstanceOf[Long]
+
+
+def printAll(num:Int*)
+{
+	println("class"+num.getClass)
+}
+
+
+//Prob : to create a Singleton object to ensure that only one instance of a class exists
+object CashRegister {
+
+def open { println("opened") }
+
+def close { println("closed") }
+}
+//With CashRegister defined as an object, there can be only one instance of it, and its
+//methods are called just like static methods on a Java class:
+
+object Main extends App {
+
+CashRegister.open
+CashRegister.close
+
+}
+*/
+//************************************************************Trait******************************************************************
+
+//Prob : How to have interface in scala
+
+//You can use a trait just like a Java interface
+
+trait BaseSoundPlayer {
+def play
+def close
+def pause
+def stop    // only method names are required when it does not have any name
+def resume(enabled : Boolean)
+}
+
+//class mySystem extends BaseSoundPlayer{
+
+// class my sound player must implement all the mothods
+
+//}
+
+
+abstract class MyNewSystem extends BaseSoundPlayer{
+// this class as it is abstact have a luxary to implement only few methods of trait
+}
+
+
+//Prob : Using trait like a abstact class in JAVA
+
+trait Pet {
+def speak { println("Yo") } // concrete implementation
+def comeToMaster // abstract method
+}
+
+class Dog extends Pet {
+// don't need to implement 'speak' if you don't need to
+def comeToMaster { ("I'm coming!") }
+}
+class Cat extends Pet {
+// override the speak method
+override def speak { ("meow") }
+def comeToMaster { ("That's not gonna happen.") }
+}
+
+abstract class FlyingPet extends Pet {
+def fly { ("I'm flying!") }  // if make a method abstract then no need of implementing anything from trait
+}
+
+
+
+
+//****************************************************************************************************************************************
+
+
+//Prob: How to convert array to string
+
+val obj = Array("hi","am","vivek","kale")         //> obj  : Array[String] = Array(hi, am, vivek, kale)
+
+val obj2 = obj.mkString(" ")                      //> obj2  : String = hi am vivek kale
+val obj3 = obj.mkString("\n ")                    //> obj3  : String = hi
+                                                  //|  am
+                                                  //|  vivek
+                                                  //|  kale
+
+
+
+//Prob : Creating an array which can grow in size
+import scala.collection.mutable.ArrayBuffer
+val fruits = ArrayBuffer[String]()                //> fruits  : scala.collection.mutable.ArrayBuffer[String] = ArrayBuffer()
+
+fruits += "banana"                                //> res2: Study.fruits.type = ArrayBuffer(banana)
+fruits += "apple"                                 //> res3: Study.fruits.type = ArrayBuffer(banana, apple)
+
+println(fruits.length)                            //> 2
+
+
+
+
+
+//*****************************************************(LIST ARRAY MAP SET)*********************************************************************
+
+// list and map are mutable by nature
+
+ val wx = List(1, 2.0, 33D, 4000L)                //> wx  : List[Double] = List(1.0, 2.0, 33.0, 4000.0)
+ 
+ // to use mutable list use listBuffer
+ 
+ import scala.collection.mutable.ListBuffer
+ 
+ val fruitsm = ListBuffer[String]()               //> fruitsm  : scala.collection.mutable.ListBuffer[String] = ListBuffer()
+ 
+ fruitsm+= "mango"                                //> res4: Study.fruitsm.type = ListBuffer(mango)
+ fruitsm+= "guava"                                //> res5: Study.fruitsm.type = ListBuffer(mango, guava)
+
+// adding multiple elements
+
+fruitsm += ("a","b","c")                          //> res6: Study.fruitsm.type = ListBuffer(mango, guava, a, b, c)
+
+	
+// immutable map
+
+val states = Map("AL" -> "Alabama", "AK" -> "Alaska")
+                                                  //> states  : scala.collection.immutable.Map[String,String] = Map(AL -> Alabama
+                                                  //| , AK -> Alaska)
+
+// mutable map
+var states1 = collection.mutable.Map("AL" -> "Alabama")
+                                                  //> states1  : scala.collection.mutable.Map[String,String] = Map(AL -> Alabama)
+                                                  //| 
+states1 +=  ("AP"->"Andrapradesh")                //> res7: scala.collection.mutable.Map[String,String] = Map(AP -> Andrapradesh,
+                                                  //|  AL -> Alabama)
+
+//accessing values from map
+
+	val al = states1("AL")                    //> al  : String = Alabama
+
+	val al2 = states1.get("AL")               //> al2  : Option[String] = Some(Alabama)
+	
+	//if get is used as u are not sure of key
+	val al3 = states1.get("YO")               //> al3  : Option[String] = None
+
+var x3 = collection.mutable.Map(1 -> "a", 2 -> "b", 3 -> "c")
+                                                  //> x3  : scala.collection.mutable.Map[Int,String] = Map(2 -> b, 1 -> a, 3 -> c
+                                                  //| )
+
+val y  = x3.transform((k,v) => v.toUpperCase())   //> y  : scala.collection.mutable.Map[Int,String] = Map(2 -> B, 1 -> A, 3 -> C)
+                                                  //| 
+
+println(y.values)
+
+}

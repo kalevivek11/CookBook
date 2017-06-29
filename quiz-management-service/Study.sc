@@ -308,9 +308,75 @@ println(fruits.length)                            //> 2
 
 
 
+//*****************************************************(LIST ARRAY MAP SET)*********************************************************************
+
+// list and map are mutable by nature
+
+ val wx = List(1, 2.0, 33D, 4000L)                //> wx  : List[Double] = List(1.0, 2.0, 33.0, 4000.0)
+ 
+ // to use mutable list use listBuffer
+ 
+ import scala.collection.mutable.ListBuffer
+ 
+ val fruitsm = ListBuffer[String]()               //> fruitsm  : scala.collection.mutable.ListBuffer[String] = ListBuffer()
+ 
+ fruitsm+= "mango"                                //> res4: Study.fruitsm.type = ListBuffer(mango)
+ fruitsm+= "guava"                                //> res5: Study.fruitsm.type = ListBuffer(mango, guava)
+
+// adding multiple elements
+
+fruitsm += ("a","b","c")                          //> res6: Study.fruitsm.type = ListBuffer(mango, guava, a, b, c)
+
+	
+// immutable map...different ways of implementations
+
+val states = Map("AL" -> "Alabama", "AK" -> "Alaska")
+                                                  //> states  : scala.collection.immutable.Map[String,String] = Map(AL -> Alabama
+                                                  //| , AK -> Alaska)
+
+val states2 = Map( ("AL", "Alabama"), ("AK", "Alaska") )
+                                                  //> states2  : scala.collection.immutable.Map[String,String] = Map(AL -> Alabam
+                                                  //| a, AK -> Alaska)
 
 
+// mutable map
+var states1 = collection.mutable.Map("AL" -> "Alabama")
+                                                  //> states1  : scala.collection.mutable.Map[String,String] = Map(AL -> Alabama)
+                                                  //| 
+states1 +=  ("AP"->"Andrapradesh")                //> res7: scala.collection.mutable.Map[String,String] = Map(AP -> Andrapradesh,
+                                                  //|  AL -> Alabama)
+
+//accessing values from map
+
+	val al = states1("AL")                    //> al  : String = Alabama
+
+	val al2 = states1.get("AL")               //> al2  : Option[String] = Some(Alabama)
+	
+	//if get is used as u are not sure of key
+	val al3 = states1.get("YO")               //> al3  : Option[String] = None
+
+var x3 = collection.mutable.Map(1 -> "a", 2 -> "b", 3 -> "c")
+                                                  //> x3  : scala.collection.mutable.Map[Int,String] = Map(2 -> b, 1 -> a, 3 -> c
+                                                  //| )
+
+val y  = x3.transform((k,v) => v.toUpperCase())   //> y  : scala.collection.mutable.Map[Int,String] = Map(2 -> B, 1 -> A, 3 -> C)
+                                                  //| 
+
+println(y)                                        //> Map(2 -> B, 1 -> A, 3 -> C)
+
+val z = y.filter(x => x._1 >2)                    //> z  : scala.collection.mutable.Map[Int,String] = Map(3 -> C)
+
+//val q = y.filter( _ > 2)
 
 
+//converting list of tuple to map of key vlaue pair
+
+val tlist = List(("a","akola"),("b","bombay"),("c","chennai"))
+                                                  //> tlist  : List[(String, String)] = List((a,akola), (b,bombay), (c,chennai))
+                                                  //| 
+var mapping = tlist.map(f => (f._1,f._2)).toMap   //> mapping  : scala.collection.immutable.Map[String,String] = Map(a -> akola, 
+                                                  //| b -> bombay, c -> chennai)
+
+println(mapping)                                  //> Map(a -> akola, b -> bombay, c -> chennai)
 
 }
