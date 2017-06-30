@@ -355,8 +355,7 @@ def result: Either[String,Int] =
 	}
 	catch
 	{
-		case e:Exception => 
-		Left(ln)
+		case e : 		Left(e)
 	}
 
 val c = result match {

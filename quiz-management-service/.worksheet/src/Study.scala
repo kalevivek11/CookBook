@@ -1,4 +1,6 @@
-object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(58); 
+import scala.util.Either
+
+object Study {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(84); 
   println("Welcome to the Scala worksheet");$skip(203); 
   
   //************Strings*****************************************************************************************************************
@@ -338,6 +340,31 @@ val z = y.filter(x => x._1 >2);System.out.println("""z  : scala.collection.mutab
 val tlist = List(("a","akola"),("b","bombay"),("c","chennai"));System.out.println("""tlist  : List[(String, String)] = """ + $show(tlist ));$skip(48); 
 var mapping = tlist.map(f => (f._1,f._2)).toMap;System.out.println("""mapping  : scala.collection.immutable.Map[String,String] = """ + $show(mapping ));$skip(18); 
 
-println(mapping)}
+println(mapping);$skip(233); 
+
+//*********************************************************************Project related Learning**********************************************************************************
+
+//Use of Either
+
+val ln = Console.readLine("hello");System.out.println("""ln  : String = """ + $show(ln ));$skip(109); 
+
+def result: Either[String,Int] =
+	try
+	{
+		Right(ln.toInt)
+	}
+	catch
+	{
+		case e:Exception =>
+		Left(ln)
+	};System.out.println("""result: => scala.util.Either[String,Int]""");$skip(114); 
+
+val c = result match {
+case Right(result) => "you massed me INT "
+case Left(result) => "you passed me STRING "
+};System.out.println("""c  : String = """ + $show(c ))}
+
+
+
 
 }

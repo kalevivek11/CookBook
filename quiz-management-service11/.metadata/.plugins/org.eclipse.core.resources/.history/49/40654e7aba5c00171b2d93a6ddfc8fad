@@ -348,23 +348,14 @@ println(mapping)
 
 val ln = Console.readLine("hello")
 
-def result: Either[String,Int] =
+val result: Either[Int,String] =
 	try
 	{
 		Right(ln.toInt)
 	}
 	catch
 	{
-		case e:Exception => 
+		case e : Exception =>
 		Left(ln)
 	}
-
-val c = result match {
-case Right(result) => "you massed me INT "
-case Left(result) => "you passed me STRING "
-}
-
-
-
-
 }
